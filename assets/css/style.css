@@ -242,13 +242,15 @@ padding: 5rem;
   @media screen and (max-width: 680px) {
     .baniere{
       height: 8rem;
+      width: 100%;
     }
     #photographer{ 
       height: 10rem;
       width: 20%;
       display: block;
     margin-left: auto;
-    margin-right: auto
+    margin-right: auto;
+    margin: 2rem ;
     }
 }
 
